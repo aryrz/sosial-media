@@ -1,2 +1,2 @@
 # sosial-media
-Small project: Social Media
+Tugas: Social Media
